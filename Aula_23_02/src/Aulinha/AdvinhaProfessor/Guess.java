@@ -1,4 +1,4 @@
-package Aula.AdvinhaProfessor;
+package Aulinha.AdvinhaProfessor;
 
 import java.util.Random;
 import java.util.random.RandomGenerator;

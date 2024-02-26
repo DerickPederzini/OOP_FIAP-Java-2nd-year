@@ -1,4 +1,4 @@
-package Aula.AdvinhaProfessor;
+package Aulinha.AdvinhaProfessor;
 
 import java.util.Scanner;
 

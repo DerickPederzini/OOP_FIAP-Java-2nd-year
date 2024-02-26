@@ -1,4 +1,4 @@
-package Aula.Adivinha;
+package Aulinha.Adivinha;
 
 public class Main {
 

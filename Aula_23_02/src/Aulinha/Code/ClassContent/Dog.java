@@ -1,4 +1,4 @@
-package Aula.Code.ClassContent;
+package Aulinha.Code.ClassContent;
 
 import java.time.LocalDate;
 import java.util.Hashtable;

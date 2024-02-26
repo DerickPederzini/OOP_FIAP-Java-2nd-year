@@ -1,4 +1,4 @@
-package Aula.Adivinha;
+package Aulinha.Adivinha;
 
 import java.util.Random;
 import java.util.Scanner;

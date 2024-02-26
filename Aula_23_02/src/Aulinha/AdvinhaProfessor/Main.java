@@ -1,4 +1,4 @@
-package Aula.AdvinhaProfessor;
+package Aulinha.AdvinhaProfessor;
 
 public class Main {
     public static void main(String[] args) {
